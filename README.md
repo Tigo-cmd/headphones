@@ -2,6 +2,8 @@ To run the Headphones website locally, follow these steps:
 
     Clone the repository: $ git clone https://github.com/Tigo-cmd/headphones.git
 
+Contributing
+
 We appreciate contributions from the open-source community to enhance the Headphones website. To contribute, please follow these guidelines:
 
     Fork the repository.
